@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**Academic:**
+:green_circle: [minic2c](https://github.com/GioaniBraouni/Compilers-I-Bison)
+:orange_circle: [hadoop mongodb](https://github.com/GioaniBraouni/Big-Data-Management)
+:orange_circle: [car wash](https://github.com/GioaniBraouni/CarWash-App-GUI)
+:orange_circle: [tresa search engine](https://github.com/GioaniBraouni/TReSa-Search-Engine)
+:black_circle: [most popular sorting algorithms](https://github.com/GioaniBraouni/A-Collection-of-Sorting-Algorithms)
+:purple_circle: [java programms](https://github.com/GioaniBraouni/A-Collection-of-Java-Programs)
+:red_circle: [sms app](https://github.com/GioaniBraouni/Socket-Programming)
 <!--
 **GioaniBraouni/GioaniBraouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
