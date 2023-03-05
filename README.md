@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **Academic Projects:**
-:black_circle: [legislation codification system] (https://github.com/GioaniBraouni/Legislation-Codification-System)
+:black_circle: [legislation codification system](https://github.com/GioaniBraouni/Legislation-Codification-System)
 :green_circle: [minic2c](https://github.com/GioaniBraouni/Compilers-I-Bison)
 :orange_circle: [hadoop mongodb](https://github.com/GioaniBraouni/Big-Data-Management)
 :white_circle: [car wash](https://github.com/GioaniBraouni/CarWash-App-GUI)
